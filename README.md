@@ -106,4 +106,4 @@ _On the test set:_
 
 1. **Clone the Repository:**
  ```bash
- git clone https://github.com/CharanSSJ/telecom-churn-rf.git
+ git clone https://github.com/CharanSSJ/telecom-churn-gr.git
